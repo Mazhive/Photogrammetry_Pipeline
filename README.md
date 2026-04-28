@@ -23,13 +23,13 @@ Before running the script, ensure your system has the necessary dependencies ins
 
 System Dependencies:
 
-Bash
+ 
 sudo apt update
 sudo apt install -y python3-pyqt6 python3-psutil docker.io
 Docker Permissions (Crucial):
 To run Docker without sudo (required for the script to manage containers), add your user to the docker group:
 
-Bash
+ 
 sudo usermod -aG docker $USER
 newgrp docker
 Hardware Requirements:
@@ -58,7 +58,6 @@ Plaintext
 
 ## Launch the GUI from your terminal:
 
-Bash
 python3 main_gui.EN.final.py
 Build Engine: Use the "Build Optimized Engine" button within the GUI. The script will automatically generate the Dockerfile and build the container for you.
 
@@ -73,7 +72,7 @@ Blender: Upon completion, a popup will appear. Click "Open" to navigate directly
 ## 📖 Usage
 Launch the GUI from your terminal:
 
-Bash
+
 python3 main_gui.EN.final.py
 Engine Setup:
 
