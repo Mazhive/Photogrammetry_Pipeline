@@ -43,11 +43,17 @@ Storage: High-capacity drive recommended .
 
 Plaintext
 /Linux
+
 ├── bin/   # AliceVision executable binaries
+
 ├── projects/          # Scan output and working directories , you can find the calculated  mtl and obj file here.
+
 ├── premade.dockercontainer/          # **** see option B
+
 ├── template/                      # Meshroom template you can use in meshroom all nesecary nodes are included
+
 └── main_gui.EN.Final.py        # The Python GUI script
+
 📖 Usage
 
 ## Launch the GUI from your terminal:
