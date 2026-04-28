@@ -77,7 +77,7 @@ Bash
 python3 main_gui.EN.final.py
 Engine Setup:
 
-   # Option A: Use the "Build Optimized Engine" button. The script will automatically generate the Dockerfile and build the container.
+   Option A: Use the "Build Optimized Engine" button. The script will automatically generate the Dockerfile and build the container.
 
 **** Option B: If the script detects a premade container in the premade.dockercontainer/ folder (link provided in the file), it will offer to import it automatically.
 
