@@ -1,3 +1,0 @@
-echo "*.tar" >> .gitignore
-echo "linux/projects/" >> .gitignore
-echo "linux/MeshroomCache/" >> .gitignore
