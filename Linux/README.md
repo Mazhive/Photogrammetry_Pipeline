@@ -85,6 +85,6 @@ Engine Setup:
 ## ⚠️ Troubleshooting
 Resource Busy / Command Not Found: If you try to run the script without the python3 prefix, Linux may mistake it for a Bash script. Always launch with python3.
 
-Disk Space: Photogrammetry generates massive amounts of data. It is highly recommended to use a drive with at least 1TB of free space (e.g., your SteamLibrary mount).
+Disk Space: Photogrammetry generates massive amounts of data. It is highly recommended to use a drive with enough storage space.
 
 Created by   Mazhive - 2026
